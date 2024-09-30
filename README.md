@@ -1,6 +1,5 @@
 # Sales Analysis
 
-Overview: 
 This project focuses on performing a comprehensive analysis of a sales dataset to uncover key insights and trends. The goal of the analysis is to explore factors driving revenue, product performance, and regional sales variations. The project covers essential data preprocessing steps, exploratory data analysis (EDA), and visualizations that help illustrate the distribution and impact of sales-related metrics, such as product categories, regions, and discounts.
 
 Key objectives of the analysis include:
